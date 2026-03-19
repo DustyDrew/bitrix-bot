@@ -1,0 +1,14 @@
+{
+     "name": "bitrix-bot",
+     "version": "1.0.0",
+     "main": "bot.js",
+     "scripts": {
+     "start": "node bot.js"
+     },
+     "dependencies": {
+     "express": "^4.22.1"
+     },
+     "engines": {
+     "node": "22.x"
+     }
+}
