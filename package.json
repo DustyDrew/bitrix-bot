@@ -1,7 +1,7 @@
 {
 "name": "bitrix-bot",
 "version": "1.0.0",
-"main": "./src/bot.js",
+"main": "bot.js",
 "scripts": {
     "start": "node bot.js",
     "build": "npm install"
